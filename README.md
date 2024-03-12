@@ -57,4 +57,6 @@ Eigen：[关于CMake的一些用法 - Blog of Mr.Juan (ljy0109.github.io)](https
   - SAH：Surface Area Heuristic（未实现）
   - 蒙特卡洛积分
   - 俄罗斯轮盘赌
+  - GGX (Trowbridge-Reitz) 微表面模型（待详细理解）
+  - 常见的漫反射模型：朗伯模型（Lambert's Model）、Oren–Nayar Reflectance Model（待详细理解）
   - ![](GAMES101/Path_tracing/build/binaryWithMultiThread_And_Microfacet.png)
