@@ -14,8 +14,8 @@
 
 - `launch.json`中的`"miDebuggerPath"`
 - `CMakeLists.txt`中的：
-  - set(EIGEN3_INCLUDE_DIR "E:/Code/VSCode/library")
-  - set(OpenCV_DIR "E:/Code/VSCode/library/opencv_4.8.0/opencv-build/install/x64/mingw/lib")
+  - `set(EIGEN3_INCLUDE_DIR "E:/Code/VSCode/library")`
+  - `set(OpenCV_DIR "E:/Code/VSCode/library/opencv_4.8.0/opencv-build/install/x64/mingw/lib")`
 - 代码文件中的绝对路径。如果使用相对路径，在调试时可能会报错
 
 环境配置教程：
